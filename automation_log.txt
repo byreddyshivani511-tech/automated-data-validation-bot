@@ -1,0 +1,6 @@
+
+--- Run at 2026-07-12 14:57:14.410817 ---
+Total records processed: 50
+Clean records: 29
+Issues found: 1
+ - 13 tickets with unrealistic resolution time
